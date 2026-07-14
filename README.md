@@ -30,21 +30,21 @@ PixelCurator organizes a photo library with AI that runs entirely on-device — 
 A full mixing chain of open-source audio plugins (AU / VST3, JUCE 8, AGPLv3) for producing symphonic and high-gain metal — from front-of-amp tone through the mastering limiter.
 
 **Guitar & bass**
-- **[overture](https://github.com/metal-up-your-ass/overture)** — overdrive / pre-amp tightening stage in front of the amp.
-- **[tenebrae](https://github.com/metal-up-your-ass/tenebrae)** — cascaded, oversampled high-gain distortion with a 3-band tone stack.
-- **[silentium](https://github.com/metal-up-your-ass/silentium)** — lookahead/hysteresis noise gate with a sidechain high-pass for palm-muted rhythm.
-- **[nave](https://github.com/metal-up-your-ass/nave)** — partitioned-convolution cabinet IR loader for reamping guitar and bass DI.
-- **[twist-your-guts](https://github.com/metal-up-your-ass/twist-your-guts)** — parallax-style bass: split the lows, compress them, twist the guts out of the highs.
+- **[Overture](https://github.com/metal-up-your-ass/Overture)** — overdrive / pre-amp tightening stage in front of the amp.
+- **[Tenebrae](https://github.com/metal-up-your-ass/Tenebrae)** — cascaded, oversampled high-gain distortion with a 3-band tone stack.
+- **[Silentium](https://github.com/metal-up-your-ass/Silentium)** — lookahead/hysteresis noise gate with a sidechain high-pass for palm-muted rhythm.
+- **[Nave](https://github.com/metal-up-your-ass/Nave)** — partitioned-convolution cabinet IR loader for reamping guitar and bass DI.
+- **[Twist-Your-Guts](https://github.com/metal-up-your-ass/Twist-Your-Guts)** — parallax-style bass: split the lows, compress them, twist the guts out of the highs.
 
 **Orchestral & vocal**
-- **[aureate](https://github.com/metal-up-your-ass/aureate)** — tape/console saturation glue for strings, brass and layered tracks.
-- **[seraph](https://github.com/metal-up-your-ass/seraph)** — choir & vocal processor: air, de-essing and doubling for operatic vocals.
-- **[requiem](https://github.com/metal-up-your-ass/requiem)** — cinematic convolution reverb with cathedral and hall spaces.
-- **[firmament](https://github.com/metal-up-your-ass/firmament)** — mid/side stereo widener and imager with bass-mono.
+- **[Aureate](https://github.com/metal-up-your-ass/Aureate)** — tape/console saturation glue for strings, brass and layered tracks.
+- **[Seraph](https://github.com/metal-up-your-ass/Seraph)** — choir & vocal processor: air, de-essing and doubling for operatic vocals.
+- **[Requiem](https://github.com/metal-up-your-ass/Requiem)** — cinematic convolution reverb with cathedral and hall spaces.
+- **[Firmament](https://github.com/metal-up-your-ass/Firmament)** — mid/side stereo widener and imager with bass-mono.
 
 **Mix & master**
-- **[triptych](https://github.com/metal-up-your-ass/triptych)** — 3-band multiband compressor with a Linkwitz-Riley crossover.
-- **[apotheosis](https://github.com/metal-up-your-ass/apotheosis)** — brickwall true-peak limiter with oversampled true-peak detection.
+- **[Triptych](https://github.com/metal-up-your-ass/Triptych)** — 3-band multiband compressor with a Linkwitz-Riley crossover.
+- **[Apotheosis](https://github.com/metal-up-your-ass/Apotheosis)** — brickwall true-peak limiter with oversampled true-peak detection.
 
 ## Open source, solo
 
