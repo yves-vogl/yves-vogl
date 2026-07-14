@@ -5,7 +5,7 @@ Cloud infrastructure, platform engineering, and automation by day; independent p
 
 ## Where I build
 
-I run two GitHub organizations, each behind a product with a public open-source surface.
+I run several GitHub organizations, each behind a product with a public open-source surface.
 
 ### 🎫 [kadenz-live](https://github.com/kadenz-live) — self-hosted event ticketing
 
@@ -25,12 +25,19 @@ PixelCurator organizes a photo library with AI that runs entirely on-device — 
 - **[app](https://github.com/PixelCurator/app)** · Swift
   Native SwiftUI app for iPhone / iPad / Mac using on-device PhotoKit + MobileCLIP. A ground-up rebuild of PixelCurator, not a port.
 
+### 🤘 [metal-up-your-ass](https://github.com/metal-up-your-ass) — high-gain metal audio plugins
+
+Open-source audio plugins (AU / VST3, built with JUCE 8, AGPLv3), voiced for high-gain metal guitar and bass.
+
+- **[overture](https://github.com/metal-up-your-ass/overture)** · C++ / JUCE 8
+  Overdrive / pre-amp tightening stage — the front-of-amp boost that tightens up a high-gain rig.
+- **[twist-your-guts](https://github.com/metal-up-your-ass/twist-your-guts)** · C++ / JUCE 8
+  Parallax-style bass plugin — split the bass, compress the lows, twist the guts out of the highs.
+
 ## Open source, solo
 
-A few standalone projects under my own account:
+Standalone projects under my own account:
 
-- **[twist-your-guts](https://github.com/yves-vogl/twist-your-guts)** · C++ / JUCE 8 — Parallax-style bass plugin (AU/VST3): split the bass, compress the lows, twist the guts out of the highs. AGPLv3.
-- **[tight-boost](https://github.com/yves-vogl/tight-boost)** · C++ / JUCE 8 — Overdrive / pre-amp tightening stage for high-gain metal. AGPLv3.
 - **[moneymoney-paypal-pos-extension](https://github.com/yves-vogl/moneymoney-paypal-pos-extension)** · Lua — MoneyMoney extension for PayPal POS: card sales, refunds, fees, and payouts. MIT, GPG-signed.
 - **[llm-ecosphere](https://github.com/yves-vogl/llm-ecosphere)** · Python — A closed world, small enough to explain an LLM ecosystem completely.
 - **[aws-eks-helm-deploy](https://github.com/yves-vogl/aws-eks-helm-deploy)** · Python — Bitbucket Pipe for deploying Helm charts to AWS EKS.
