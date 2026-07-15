@@ -25,26 +25,28 @@ PixelCurator organizes a photo library with AI that runs entirely on-device — 
 - **[app](https://github.com/PixelCurator/app)** · Swift
   Native SwiftUI app for iPhone / iPad / Mac using on-device PhotoKit + MobileCLIP. A ground-up rebuild of PixelCurator, not a port.
 
-### 🤘 [metal-up-your-ass](https://github.com/metal-up-your-ass) — symphonic-metal audio plugins
+### ⛪ [Basilica Audio](https://github.com/basilica-audio) — sacred-architecture plugin suite
 
-A full mixing chain of open-source audio plugins (AU / VST3, JUCE 8, AGPLv3) for producing symphonic and high-gain metal — from front-of-amp tone through the mastering limiter.
+A suite of open-source audio plugins (AU / VST3 / Standalone, JUCE 8, AGPLv3) — thirteen heavyweight DSP tools forming a full mixing chain for symphonic and high-gain metal, from front-of-amp tone through the mastering limiter.
 
 **Guitar & bass**
-- **[Overture](https://github.com/metal-up-your-ass/Overture)** — overdrive / pre-amp tightening stage in front of the amp.
-- **[Tenebrae](https://github.com/metal-up-your-ass/Tenebrae)** — cascaded, oversampled high-gain distortion with a 3-band tone stack.
-- **[Silentium](https://github.com/metal-up-your-ass/Silentium)** — lookahead/hysteresis noise gate with a sidechain high-pass for palm-muted rhythm.
-- **[Nave](https://github.com/metal-up-your-ass/Nave)** — partitioned-convolution cabinet IR loader for reamping guitar and bass DI.
-- **[Twist-Your-Guts](https://github.com/metal-up-your-ass/Twist-Your-Guts)** — parallax-style bass: split the lows, compress them, twist the guts out of the highs.
+- **[Overture](https://github.com/basilica-audio/Overture)** — overdrive / pre-amp tightening stage in front of the amp.
+- **[Tenebrae](https://github.com/basilica-audio/Tenebrae)** — cascaded, oversampled high-gain distortion with a 3-band tone stack.
+- **[Silentium](https://github.com/basilica-audio/Silentium)** — lookahead/hysteresis noise gate with a sidechain high-pass for palm-muted rhythm.
+- **[Nave](https://github.com/basilica-audio/Nave)** — partitioned-convolution cabinet IR loader for reamping guitar and bass DI.
+- **[Crypta](https://github.com/basilica-audio/Crypta)** — parallax-style bass: split the lows, compress them, twist the guts out of the highs.
 
 **Orchestral & vocal**
-- **[Aureate](https://github.com/metal-up-your-ass/Aureate)** — tape/console saturation glue for strings, brass and layered tracks.
-- **[Seraph](https://github.com/metal-up-your-ass/Seraph)** — choir & vocal processor: air, de-essing and doubling for operatic vocals.
-- **[Requiem](https://github.com/metal-up-your-ass/Requiem)** — cinematic convolution reverb with cathedral and hall spaces.
-- **[Firmament](https://github.com/metal-up-your-ass/Firmament)** — mid/side stereo widener and imager with bass-mono.
+- **[Aureate](https://github.com/basilica-audio/Aureate)** — tape/console saturation glue for strings, brass and layered tracks.
+- **[Seraph](https://github.com/basilica-audio/Seraph)** — choir & vocal processor: air, de-essing and doubling for operatic vocals.
+- **[Miserere](https://github.com/basilica-audio/Miserere)** — parallel vocal chain: a direct path plus opto-sandwich, FET-smash and slap-delay busses.
+- **[Requiem](https://github.com/basilica-audio/Requiem)** — cinematic convolution reverb with cathedral and hall spaces.
+- **[Firmament](https://github.com/basilica-audio/Firmament)** — mid/side stereo widener and imager with bass-mono.
 
 **Mix & master**
-- **[Triptych](https://github.com/metal-up-your-ass/Triptych)** — 3-band multiband compressor with a Linkwitz-Riley crossover.
-- **[Apotheosis](https://github.com/metal-up-your-ass/Apotheosis)** — brickwall true-peak limiter with oversampled true-peak detection.
+- **[Lancet](https://github.com/basilica-audio/Lancet)** — dynamic EQ with six surgical, threshold-driven bands and per-band gain-reduction metering.
+- **[Triptych](https://github.com/basilica-audio/Triptych)** — 3-band multiband compressor with a Linkwitz-Riley crossover.
+- **[Apotheosis](https://github.com/basilica-audio/Apotheosis)** — brickwall true-peak limiter with oversampled true-peak detection.
 
 ## Open source, solo
 
